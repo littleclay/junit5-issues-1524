@@ -2,8 +2,13 @@
 Example code that encountered issues.
 
 Machine:
-  2017, 15-inch Macbook Pro
+  2017 Macbook Pro
   macOS High Sierra 10.13.6
+
+Java version:
+  java version "1.8.0_162"
+  Java(TM) SE Runtime Environment (build 1.8.0_162-b12)
+  Java HotSpot(TM) 64-Bit Server VM (build 25.162-b12, mixed mode)
 
 Build tool:
   bazel
