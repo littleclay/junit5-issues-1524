@@ -14,6 +14,6 @@ maven_jar(
 maven_jar(
   name = 'opentest4j',
   artifact = 'org.opentest4j:opentest4j:1.1.0',
-  sha1 = '6f09c598e9ff64bf0ce2fa7e7de49a99ba83c0b4',
+  sha1 = 'c8e2a3e3bc7f3e4bb5075306452db5290f9b117a',
 )
 
